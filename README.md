@@ -16,6 +16,7 @@ See attached pdf (Proof_of_concept.pdf)
 ## Now, imagine you have joined the Preparedness team. Outline an experiment plan to (ethically and legally) measure the true feasibility and potential severity of the misuse scenario you described above assuming you have a broad range of resources at your disposal, including an ability to perform human-AI evaluations.
 
 The experiment plan should answer the following research questions:
+
 RQ1: To what extent can a GPT-4 powered LLM agent be perceived as a religious figure by individuals in semi-urban and rural Indian communities?
 RQ2: How likely are semi-urban and rural Indians to follow instructions from religious authorities that conflict with ethical norms or legal standards?
 
