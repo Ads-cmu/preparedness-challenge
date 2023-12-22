@@ -47,3 +47,6 @@ Participant Details: Same as RQ1.
 
 Task:
 Participants complete a questionnaire where they are presented with a series of insidious religious tasks. Each task is framed within a specific scenario. In each scenario, participants are told that a religious leader has proposed the task as a solution to a hypothetical problem they face. Participants are asked to indicate whether they would carry out the task in each scenario.
+
+## Detail potential actions that might mitigate the risk you identified.
+The exploit's feasibility stems from two key factors: firstly, GPT-4's inclination to suggest actions without verifying them, and secondly, users' propensity to execute these actions driven by religious faith. Mitigating the first aspect is challenging, but OpenAI can address the second by monitoring the use of its APIs for religious purposes. Since even innocuous applications of GPT-4 in religious contexts might be manipulated for harm (as seen above), OpenAI should implement stringent customer identification and monitoring processes, especially for users employing the API in religious scenarios. This proactive approach can reduce the potential for misuse.
